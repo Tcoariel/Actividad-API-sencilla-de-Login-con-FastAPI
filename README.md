@@ -13,3 +13,10 @@ Responder con un mensaje indicando si el login fue exitoso o no.
 
 Usar FastAPI para manejar la API y sqlmodel para definir los datos del login.
 
+
+# Salida
+
+<img width="883" height="927" alt="image" src="https://github.com/user-attachments/assets/abc35b97-4014-4e42-a742-47a5c4b871c5" />
+
+
+
