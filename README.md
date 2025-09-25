@@ -3,8 +3,7 @@
 
 Este proyecto implementa una API REST sencilla usando FastAPI y sqlmodel que permite validar un nombre de usuario y contraseña de forma básica. El objetivo principal es comprender cómo funciona la autenticación mínima sin tokens ni bases de datos externas, utilizando datos "quemados" (hardcoded) en el código.
 
-
-#Objetivo
+# Objetivo
 
 Crear una API REST que reciba un nombre de usuario y contraseña.
 
